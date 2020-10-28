@@ -1,5 +1,6 @@
 ## 技术栈
 
+![PHP](https://img.shields.io/badge/-php-blue?logo=php)
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?logo=react)
 ![Dart](https://img.shields.io/badge/-Dart-%234B32C3?logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
