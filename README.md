@@ -13,7 +13,7 @@
 
 
 ## 我的 Github
-[![error-code](https://github-readme-stats-six-mocha.vercel.app/api?username=error-code&count_private=true&title_color=e69138&text_color=666666&icon_color=f6b26b)](https://github.com/error-code)
+[![error-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=error-code&show_icons=true&count_private=true&theme=radical)](https://github.com/error-code)
 
 ## 联系我
 邮箱：530316985@qq.com
