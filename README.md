@@ -1,4 +1,4 @@
-## 技术栈
+## 兴趣爱好
 
 ![PHP](https://img.shields.io/badge/-php-blue?logo=php)
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?logo=react)
